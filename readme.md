@@ -44,7 +44,10 @@ ffmuxer.onAudio(pcm,pcm.size,millis)// write audio frame
 // stop ffmuxer
 ffmuxer.stop()
 ```
-test 测试
+app
+--------
+build&run myapplication module on android device
+test
 --------
 - Run the test case on Android device:
 
