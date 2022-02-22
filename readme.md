@@ -47,6 +47,7 @@ ffmuxer.stop()
 app
 --------
 build&run myapplication module on android device
+
 test
 --------
 - Run the test case on Android device:
