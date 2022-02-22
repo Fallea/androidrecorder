@@ -1,0 +1,2 @@
+include ':recorder_sdk'
+include ':myapplication'
